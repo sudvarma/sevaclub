@@ -14,8 +14,6 @@ Privacy Policy
 - Community of administrators could act as moderators to the textual conversation
 - Seva club doesn't store any data, it is for real-time colloborators
 - The plan is work on minimal resource, avoid storage as much as possible is the key
-- Sometimes a bit of history on coversation can make context clear to the user, seva club would store data for 20minutes - 24 hours or max (1MB for a public space)
+- Sometimes a bit of history on coversation can make context clear to the user, seva club would store data for 20minutes to 24 hours or max 1MB for a public space.
 - all messages send and received are public, and it is mentioned clearly to the user
-
-  
-- Seva club
+- no information about user other than mobile phone and name exists
