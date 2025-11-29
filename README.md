@@ -17,3 +17,4 @@ Privacy Policy
 - Sometimes a bit of history on coversation can make context clear to the user, seva club would store data for 20minutes to 24 hours or max 1MB for a public space.
 - all messages send and received are public, and it is mentioned clearly to the user
 - no information about user other than mobile phone and name exists
+- account deletion and associated data can be deleted by putting a request to support(sudvarma.sudheesh@gmail.com)
