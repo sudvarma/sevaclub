@@ -3,7 +3,7 @@ It is a public chat room for selected key public spaces in India
 
 In India, since the key public spaces serve a large population it is difficult for these organisations to stick to a strict schedule.
 
-For instance, a doctor might be serving in-patient while the doctor's outpatient's have to wait. The wait is not predictable.
+For instance, a doctor might be serving in-patient while the doctor's outpatients' have to wait. The wait is not predictable.
 
 With public chat room for a hospital, a few may be able to help others to know about the doctor's tentative schedule change and plan.
 
